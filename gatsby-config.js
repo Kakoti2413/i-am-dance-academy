@@ -30,6 +30,7 @@ module.exports = {
     },
     "gatsby-plugin-postcss",
     "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
