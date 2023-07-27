@@ -55,6 +55,12 @@ module.exports = {
         path: "./src/pages/"
       },
       __key: "pages"
+    },
+    {
+      resolve: 'gatsby-plugin-react-css-modules',
+      options: {
+        // Configuration options go here (optional)
+      }
     }
   ]
 };
